@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "march-2023": "apps/march-2023",
+    "march-2023-e2e": "apps/march-2023-e2e"
+  }
+}
